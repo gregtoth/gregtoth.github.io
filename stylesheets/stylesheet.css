@@ -139,7 +139,6 @@ strong {
   font-weight: bold;
 }
 
-/*
 img {
   position: relative;
   margin: 0 auto;
@@ -153,16 +152,6 @@ img {
   -moz-box-shadow: 0 0 5px #ebebeb;
   -o-box-shadow: 0 0 5px #ebebeb;
   -ms-box-shadow: 0 0 5px #ebebeb;
-}
-*/
-
-img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 0;
-  margin: 0 0 0 0;
-  border: 0; 
 }
 
 pre, code {
@@ -264,12 +253,10 @@ form {
   padding: 20px;
 }
 
-/*
 img {
   width: 100%;
   max-width: 100%;
 }
-*/
 
 /*******************************************************************************
 Full-Width Styles
