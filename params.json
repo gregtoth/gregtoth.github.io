@@ -1,5 +1,5 @@
 {
-  "name": "Gregtoth.github.io",
+  "name": "Greg Toth",
   "tagline": "",
   "body": "# Heading 1 hash\r\n\r\n## Heading 2 hash\r\n\r\n### Heading 3 hash\r\n\r\nThis is some text edited in GitHub Flavored Markdown.\r\n\r\n**This is bold**\r\n\r\n_This is italic_\r\n\r\n`This is code`\r\n\r\n> This is quoted\r\n\r\n```\r\n$ cd your_repo_root/repo_name\r\n$ git fetch origin\r\n$ git checkout gh-pages\r\n```\r\n\r\nBullet list:\r\n\r\n* bullet1\r\n* bullet2\r\n* bullet3\r\n\r\n***\r\n\r\nSome more text down here.\r\n\r\nAn image line:  ![image](http://www.iotdc.org/ico/apple-touch-icon-72-precomposed.png)\r\nUpdated text below the image.\r\n\r\n<img style=\"padding: 0;\" alt=\"this kept?\" src=\"http://www.iotdc.org/ico/apple-touch-icon-72-precomposed.png\">\r\n\r\nLink to a PDF file:  [What is the Internet of Things?](http://www.iotdc.org/pres/whatisiot.pdf)",
   "google": "UA-78757850-1",
